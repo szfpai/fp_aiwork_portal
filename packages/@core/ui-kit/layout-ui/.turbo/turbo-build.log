@@ -1,0 +1,31 @@
+
+
+> @vben-core/layout-ui@5.5.6 build /Users/mark/Desktop/Front-end/vue-vben-admin/packages/@core/ui-kit/layout-ui
+> pnpm unbuild
+
+[36mℹ[39m [36mBuilding layout-ui[39m                                                                                                          [90m01:03:34[39m
+[36mℹ[39m Cleaning dist directory: [36m./dist[39m                                                                                             [90m01:03:34[39m
+[mkdist] vue-sfc-transformer is not installed. mkdist will not transform typescript syntax in Vue SFCs.
+[32m✔[39m [32mBuild succeeded for layout-ui[39m                                                                                               [90m01:03:37[39m
+  [1mdist[22m (total size: [36m28.1 kB[39m)                                                                                                   [90m01:03:37[39m
+[90m  └─ dist/components/layout-content.vue[1m (1.46 kB)[22m[39m
+[90m  └─ dist/vben-layout.vue[1m (15.5 kB)[22m[39m
+[90m  └─ dist/components/widgets/sidebar-collapse-button.vue[1m (555 B)[22m[39m
+[90m  └─ dist/components/layout-header.vue[1m (1.36 kB)[22m[39m
+[90m  └─ dist/components/layout-sidebar.vue[1m (7.36 kB)[22m[39m
+[90m  └─ dist/components/layout-tabbar.vue[1m (515 B)[22m[39m
+[90m  └─ dist/components/layout-footer.vue[1m (803 B)[22m[39m
+[90m  └─ dist/components/widgets/sidebar-fixed-button.vue[1m (568 B)[22m[39m
+  [1mdist[22m (total size: [36m5.8 kB[39m)                                                                                                    [90m01:03:37[39m
+[90m  └─ dist/vben-layout.mjs[39m
+[90m  └─ dist/hooks/use-layout.mjs[1m (773 B)[22m[39m
+[90m  └─ dist/index.d.ts[1m (100 B)[22m[39m
+[90m  └─ dist/components/index.d.ts[1m (319 B)[22m[39m
+[90m  └─ dist/components/index.mjs[1m (319 B)[22m[39m
+[90m  └─ dist/hooks/use-layout.d.ts[1m (508 B)[22m[39m
+[90m  └─ dist/components/widgets/index.mjs[1m (158 B)[22m[39m
+[90m  └─ dist/components/widgets/index.d.ts[1m (158 B)[22m[39m
+[90m  └─ dist/index.mjs[1m (64 B)[22m[39m
+[90m  └─ dist/vben-layout.d.ts[1m (3.4 kB)[22m[39m
+Σ Total dist size (byte size): [36m33.9 kB[39m
+                                                                                                                               [90m01:03:37[39m

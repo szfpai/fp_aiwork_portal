@@ -1,0 +1,2 @@
+export * from "/Users/xiongtianping/Desktop/workportal/fp_aiwork_portal/internal/tailwind-config/src/postcss.config.js";
+export { default } from "/Users/xiongtianping/Desktop/workportal/fp_aiwork_portal/internal/tailwind-config/src/postcss.config.js";

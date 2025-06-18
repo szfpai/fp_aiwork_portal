@@ -1,0 +1,22 @@
+
+
+> @vben-core/shared@5.5.6 build /Users/mark/Desktop/Front-end/vue-vben-admin/packages/@core/base/shared
+> pnpm unbuild
+
+[36mℹ[39m [36mBuilding shared[39m                                                                                                             [90m01:03:15[39m
+[36mℹ[39m Cleaning dist directory: [36m./dist[39m                                                                                             [90m01:03:15[39m
+[32m✔[39m [32mBuild succeeded for shared[39m                                                                                                  [90m01:03:25[39m
+  [1mdist/store.mjs[22m (total size: [36m37 B[39m, chunk size: [36m37 B[39m, exports: [90m*@tanstack/vue-store[39m)                                           [90m01:03:25[39m
+
+  [1mdist/cache/index.mjs[22m (total size: [36m2.47 kB[39m, chunk size: [36m2.47 kB[39m, exports: [90mStorageManager[39m)                                     [90m01:03:25[39m
+
+  [1mdist/global-state.mjs[22m (total size: [36m473 B[39m, chunk size: [36m473 B[39m, exports: [90mglobalShareState[39m)                                      [90m01:03:25[39m
+
+[90m[[90m01:03:25[90m][39m   [1mdist/constants/index.mjs[22m (total size: [36m1.1 kB[39m, chunk size: [36m1.1 kB[39m, exports: [90mCSS_VARIABLE_LAYOUT_CONTENT_HEIGHT, CSS_VARIABLE_LAYOUT_CONTENT_WIDTH, CSS_VARIABLE_LAYOUT_FOOTER_HEIGHT, CSS_VARIABLE_LAYOUT_HEADER_HEIGHT, DEFAULT_NAMESPACE, ELEMENT_ID_MAIN_CONTENT, VBEN_ANT_PREVIEW_URL, VBEN_DOC_URL, VBEN_ELE_PREVIEW_URL, VBEN_GITHUB_URL, VBEN_LOGO_URL, VBEN_NAIVE_PREVIEW_URL, VBEN_PREVIEW_URL[39m)
+
+[90m[[90m01:03:25[90m][39m   [1mdist/color/index.mjs[22m (total size: [36m1.9 kB[39m, chunk size: [36m1.9 kB[39m, exports: [90mTinyColor, convertToHsl, convertToHslCssVar, convertToRgb, generatorColorVariables, isDarkColor, isLightColor, isValidColor[39m)
+
+[90m[[90m01:03:25[90m][39m   [1mdist/utils/index.mjs[22m (total size: [36m14.6 kB[39m, chunk size: [36m14.6 kB[39m, exports: [90mStateHandler, arraysEqual, bindMethods, capitalizeFirstLetter, cloneDeep, cn, createMerge, diff, downloadFileFromBase64, downloadFileFromBlob, downloadFileFromBlobPart, downloadFileFromImageUrl, downloadFileFromUrl, filterTree, formatDate, formatDateTime, get, getElementVisibleRect, getFirstNonNullOrUndefined, getNestedValue, getScrollbarWidth, isBoolean, isDate, isDayjsObject, isEmpty, isEqual, isFunction, isHttpUrl, isMacOs, isNumber, isObject, isString, isUndefined, isWindow, isWindowsOs, kebabToCamelCase, mapTree, merge, mergeWithArrayOverride, needsScrollbar, openRouteInNewWindow, openWindow, set, startProgress, stopProgress, to, toCamelCase, toLowerCaseFirstLetter, traverseTreeValues, triggerDownload, triggerWindowResize, uniqueByField, updateCSSVariables, urlToBase64[39m)
+
+Σ Total dist size (byte size): [36m37.9 kB[39m
+                                                                                                                               [90m01:03:25[39m

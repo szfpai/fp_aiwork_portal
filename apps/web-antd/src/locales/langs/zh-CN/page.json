@@ -1,0 +1,21 @@
+{
+  "auth": {
+    "login": "登录",
+    "register": "注册",
+    "codeLogin": "验证码登录",
+    "qrcodeLogin": "二维码登录",
+    "forgetPassword": "忘记密码"
+  },
+  "ask": {
+    "title": "问一问"
+  },
+  "note": {
+    "title": "首页"
+  },
+  "tag": {
+    "title": "标签"
+  },
+  "subject": {
+    "title": "知识库"
+  }
+}

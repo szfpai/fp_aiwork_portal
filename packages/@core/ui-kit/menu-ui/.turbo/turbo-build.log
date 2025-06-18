@@ -1,0 +1,74 @@
+
+
+> @vben-core/menu-ui@5.5.6 build /Users/mark/Desktop/Front-end/vue-vben-admin/packages/@core/ui-kit/menu-ui
+> pnpm unbuild
+
+[36mℹ[39m [36mBuilding menu-ui[39m                                                                                                            [90m01:03:34[39m
+[36mℹ[39m Cleaning dist directory: [36m./dist[39m                                                                                             [90m01:03:34[39m
+[mkdist] vue-sfc-transformer is not installed. mkdist will not transform typescript syntax in Vue SFCs.
+[32m✔[39m [32mBuild succeeded for menu-ui[39m                                                                                                 [90m01:03:40[39m
+  [1mdist[22m (total size: [36m54.3 kB[39m)                                                                                                   [90m01:03:40[39m
+[90m  └─ dist/types.mjs[39m
+[90m  └─ dist/components/normal-menu/normal-menu.mjs[39m
+[90m  └─ dist/components/index.d.ts[1m (211 B)[22m[39m
+[90m  └─ dist/utils/index.d.ts[1m (668 B)[22m[39m
+[90m  └─ dist/components/normal-menu/index.d.ts[1m (95 B)[22m[39m
+[90m  └─ dist/hooks/index.d.ts[1m (64 B)[22m[39m
+[90m  └─ dist/index.d.ts[1m (186 B)[22m[39m
+[90m  └─ dist/types.d.ts[1m (2.92 kB)[22m[39m
+[90m  └─ dist/index.mjs[1m (166 B)[22m[39m
+[90m  └─ dist/components/index.mjs[1m (211 B)[22m[39m
+[90m  └─ dist/components/menu.vue[1m (21.9 kB)[22m[39m
+[90m  └─ dist/hooks/use-menu-context.d.ts[1m (562 B)[22m[39m
+[90m  └─ dist/hooks/use-menu-context.mjs[1m (990 B)[22m[39m
+[90m  └─ dist/hooks/use-menu-scroll.d.ts[1m (284 B)[22m[39m
+[90m  └─ dist/hooks/index.mjs[1m (72 B)[22m[39m
+[90m  └─ dist/hooks/use-menu-scroll.mjs[1m (848 B)[22m[39m
+[90m  └─ dist/hooks/use-menu.mjs[1m (914 B)[22m[39m
+[90m  └─ dist/utils/index.mjs[1m (844 B)[22m[39m
+[90m  └─ dist/hooks/use-menu.d.ts[1m (376 B)[22m[39m
+[90m  └─ dist/components/normal-menu/normal-menu.d.ts[1m (456 B)[22m[39m
+[90m  └─ dist/components/normal-menu/index.mjs[1m (59 B)[22m[39m
+[90m  └─ dist/components/normal-menu/normal-menu.vue[1m (3.48 kB)[22m[39m
+[90m  └─ dist/menu.vue[1m (653 B)[22m[39m
+[90m  └─ dist/sub-menu.vue[1m (1.61 kB)[22m[39m
+[90m  └─ dist/components/collapse-transition.vue[1m (2.59 kB)[22m[39m
+[90m  └─ dist/components/menu-badge-dot.vue[1m (597 B)[22m[39m
+[90m  └─ dist/components/menu-badge.vue[1m (1.36 kB)[22m[39m
+[90m  └─ dist/components/sub-menu.vue[1m (6.87 kB)[22m[39m
+[90m  └─ dist/components/sub-menu-content.vue[1m (2.31 kB)[22m[39m
+[90m  └─ dist/components/menu-item.vue[1m (3.03 kB)[22m[39m
+  [1mdist[22m (total size: [36m44.4 kB[39m)                                                                                                   [90m01:03:40[39m
+[90m  └─ dist/sub-menu.vue[1m (1.61 kB)[22m[39m
+[90m  └─ dist/components/menu-badge-dot.vue[1m (597 B)[22m[39m
+[90m  └─ dist/components/menu-item.vue[1m (3.03 kB)[22m[39m
+[90m  └─ dist/components/menu-badge.vue[1m (1.36 kB)[22m[39m
+[90m  └─ dist/components/collapse-transition.vue[1m (2.59 kB)[22m[39m
+[90m  └─ dist/components/menu.vue[1m (21.9 kB)[22m[39m
+[90m  └─ dist/components/sub-menu-content.vue[1m (2.31 kB)[22m[39m
+[90m  └─ dist/menu.vue[1m (653 B)[22m[39m
+[90m  └─ dist/components/normal-menu/normal-menu.vue[1m (3.48 kB)[22m[39m
+[90m  └─ dist/components/sub-menu.vue[1m (6.87 kB)[22m[39m
+  [1mdist[22m (total size: [36m9.93 kB[39m)                                                                                                   [90m01:03:40[39m
+[90m  └─ dist/types.mjs[39m
+[90m  └─ dist/index.d.ts[1m (186 B)[22m[39m
+[90m  └─ dist/components/normal-menu/normal-menu.mjs[39m
+[90m  └─ dist/index.mjs[1m (166 B)[22m[39m
+[90m  └─ dist/types.d.ts[1m (2.92 kB)[22m[39m
+[90m  └─ dist/components/index.mjs[1m (211 B)[22m[39m
+[90m  └─ dist/hooks/index.mjs[1m (72 B)[22m[39m
+[90m  └─ dist/hooks/index.d.ts[1m (64 B)[22m[39m
+[90m  └─ dist/hooks/use-menu-context.d.ts[1m (562 B)[22m[39m
+[90m  └─ dist/hooks/use-menu-context.mjs[1m (990 B)[22m[39m
+[90m  └─ dist/hooks/use-menu-scroll.d.ts[1m (284 B)[22m[39m
+[90m  └─ dist/hooks/use-menu-scroll.mjs[1m (848 B)[22m[39m
+[90m  └─ dist/hooks/use-menu.mjs[1m (914 B)[22m[39m
+[90m  └─ dist/hooks/use-menu.d.ts[1m (376 B)[22m[39m
+[90m  └─ dist/components/index.d.ts[1m (211 B)[22m[39m
+[90m  └─ dist/utils/index.d.ts[1m (668 B)[22m[39m
+[90m  └─ dist/utils/index.mjs[1m (844 B)[22m[39m
+[90m  └─ dist/components/normal-menu/normal-menu.d.ts[1m (456 B)[22m[39m
+[90m  └─ dist/components/normal-menu/index.d.ts[1m (95 B)[22m[39m
+[90m  └─ dist/components/normal-menu/index.mjs[1m (59 B)[22m[39m
+Σ Total dist size (byte size): [36m54.3 kB[39m
+                                                                                                                               [90m01:03:40[39m

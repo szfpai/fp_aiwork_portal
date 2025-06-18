@@ -1,0 +1,2 @@
+export * from "/Users/xiongtianping/Desktop/workportal/fp_aiwork_portal/scripts/vsh/src/index.js";
+export { default } from "/Users/xiongtianping/Desktop/workportal/fp_aiwork_portal/scripts/vsh/src/index.js";

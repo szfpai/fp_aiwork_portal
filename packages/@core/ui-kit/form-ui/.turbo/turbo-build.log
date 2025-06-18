@@ -1,0 +1,41 @@
+
+
+> @vben-core/form-ui@5.5.6 build /Users/mark/Desktop/Front-end/vue-vben-admin/packages/@core/ui-kit/form-ui
+> pnpm unbuild
+
+[36mℹ[39m [36mBuilding form-ui[39m                                                                                                            [90m01:03:34[39m
+[36mℹ[39m Cleaning dist directory: [36m./dist[39m                                                                                             [90m01:03:34[39m
+[mkdist] vue-sfc-transformer is not installed. mkdist will not transform typescript syntax in Vue SFCs.
+[32m✔[39m [32mBuild succeeded for form-ui[39m                                                                                                 [90m01:03:40[39m
+  [1mdist[22m (total size: [36m26 kB[39m)                                                                                                     [90m01:03:40[39m
+[90m  └─ dist/components/form-actions.vue[1m (3.69 kB)[22m[39m
+[90m  └─ dist/form-render/form-field.vue[1m (10.5 kB)[22m[39m
+[90m  └─ dist/vben-form.vue[1m (1.97 kB)[22m[39m
+[90m  └─ dist/vben-use-form.vue[1m (4.51 kB)[22m[39m
+[90m  └─ dist/form-render/form-label.vue[1m (772 B)[22m[39m
+[90m  └─ dist/form-render/form.vue[1m (4.6 kB)[22m[39m
+  [1mdist[22m (total size: [36m52.5 kB[39m)                                                                                                   [90m01:03:40[39m
+[90m  └─ dist/types.mjs[39m
+[90m  └─ dist/config.mjs[1m (1.72 kB)[22m[39m
+[90m  └─ dist/types.d.ts[1m (10.1 kB)[22m[39m
+[90m  └─ dist/use-vben-form.d.ts[1m (389 B)[22m[39m
+[90m  └─ dist/use-vben-form.mjs[1m (993 B)[22m[39m
+[90m  └─ dist/form-render/context.d.ts[1m (927 B)[22m[39m
+[90m  └─ dist/form-api.d.ts[1m (2.92 kB)[22m[39m
+[90m  └─ dist/form-render/context.mjs[1m (591 B)[22m[39m
+[90m  └─ dist/form-render/dependencies.d.ts[1m (10.1 kB)[22m[39m
+[90m  └─ dist/config.d.ts[1m (512 B)[22m[39m
+[90m  └─ dist/form-render/dependencies.mjs[1m (2.75 kB)[22m[39m
+[90m  └─ dist/form-render/expandable.d.ts[1m (332 B)[22m[39m
+[90m  └─ dist/form-render/helper.d.ts[1m (527 B)[22m[39m
+[90m  └─ dist/form-render/index.mjs[1m (160 B)[22m[39m
+[90m  └─ dist/form-render/index.d.ts[1m (160 B)[22m[39m
+[90m  └─ dist/form-api.mjs[1m (13.8 kB)[22m[39m
+[90m  └─ dist/form-render/helper.mjs[1m (987 B)[22m[39m
+[90m  └─ dist/form-render/expandable.mjs[1m (2.28 kB)[22m[39m
+[90m  └─ dist/use-form-context.d.ts[1m (1.24 kB)[22m[39m
+[90m  └─ dist/index.d.ts[1m (218 B)[22m[39m
+[90m  └─ dist/index.mjs[1m (109 B)[22m[39m
+[90m  └─ dist/use-form-context.mjs[1m (1.63 kB)[22m[39m
+Σ Total dist size (byte size): [36m78.5 kB[39m
+                                                                                                                               [90m01:03:40[39m

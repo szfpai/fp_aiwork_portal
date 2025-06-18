@@ -1,0 +1,12 @@
+
+
+> @vben-core/composables@5.5.6 build /Users/mark/Desktop/Front-end/vue-vben-admin/packages/@core/composables
+> pnpm unbuild
+
+[36mℹ[39m [36mBuilding composables[39m                                                                                                        [90m01:03:27[39m
+[36mℹ[39m Cleaning dist directory: [36m./dist[39m                                                                                             [90m01:03:27[39m
+[32m✔[39m [32mBuild succeeded for composables[39m                                                                                             [90m01:03:31[39m
+[90m[[90m01:03:31[90m][39m   [1mdist/index.mjs[22m (total size: [36m8.71 kB[39m, chunk size: [36m8.71 kB[39m, exports: [90mSCROLL_FIXED_CLASS, useEmitAsProps, useForwardExpose, useForwardPriorityValues, useForwardProps, useForwardPropsEmits, useIsMobile, useLayoutContentStyle, useLayoutFooterStyle, useLayoutHeaderStyle, useNamespace, usePriorityValue, usePriorityValues, useScrollLock, useSimpleLocale, useSortable[39m)
+
+Σ Total dist size (byte size): [36m15.7 kB[39m
+                                                                                                                               [90m01:03:31[39m

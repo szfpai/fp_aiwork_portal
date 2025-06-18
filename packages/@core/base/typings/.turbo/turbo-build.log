@@ -1,0 +1,13 @@
+
+
+> @vben-core/typings@5.5.6 build /Users/mark/Desktop/Front-end/vue-vben-admin/packages/@core/base/typings
+> pnpm unbuild
+
+[36mℹ[39m [36mBuilding typings[39m                                                                                                            [90m01:03:15[39m
+[36mℹ[39m Cleaning dist directory: [36m./dist[39m                                                                                             [90m01:03:15[39m
+Generated an empty chunk: "index".
+[32m✔[39m [32mBuild succeeded for typings[39m                                                                                                 [90m01:03:20[39m
+  [1mdist/index.mjs[22m (total size: [36m1 B[39m, chunk size: [36m1 B[39m)                                                                            [90m01:03:20[39m
+
+Σ Total dist size (byte size): [36m17.2 kB[39m
+                                                                                                                               [90m01:03:20[39m
