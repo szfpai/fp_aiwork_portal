@@ -24,6 +24,6 @@ COPY fp_workportal.conf /etc/nginx/conf.d/fp_workportal.conf
 
 WORKDIR /usr/share/nginx/html
 
-EXPOSE 8090
+EXPOSE 8829
 
 CMD ["nginx", "-g", "daemon off;"] 
